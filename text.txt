@@ -1,0 +1,3 @@
+white : #FFFFFF
+akashi: #0078BD
+ash:#414956
