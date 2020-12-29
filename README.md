@@ -1,2 +1,3 @@
 blue_final
-again prbolem.github does not work
+
+link : https://aftabuddin1431.github.io/blue_final/
